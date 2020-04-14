@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhoWantsToBeAMillionaire</string>
+
+    <string name="menu_title">Меню</string>
+    <string name="settings_title">Налаштування</string>
+
+    <string name="start_game">Почати гру</string>
+
+    <string name="hint">Підказка 50х50</string>
+    <string name="number_of_questions">Кількість запитань</string>
+    <string name="take_money">Забрати суму</string>
+    <string name="sum">Ваша сума</string>
+    <string name="ok">OK</string>
+
+    <string name="win_title">Вітаємо, ви виграли %1$d</string>
+    <string name="loose_title">Ви програли</string>
+</resources>
